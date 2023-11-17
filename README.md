@@ -4,7 +4,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL to find the most obsure-superhero based on the number of connections in the Marvel-Graphs file and then mapping the most popular Character Id that we got to the Character Name from Marvel-Names file by joining both the dataframe**.<br></br>
+**In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL to find the most obsure-superhero based on the number of connections in the Marvel-Graphs file and then mapping the most obsure Character Id that we got to the Character Name from Marvel-Names file by joining both the dataframes**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
